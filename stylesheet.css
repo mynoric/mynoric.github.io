@@ -1,0 +1,19 @@
+img {
+    border-width: 0px;
+}
+img[Attributes Style] {
+    width: 900px;
+    aspect-ratio: auto 900 / 675;
+    height: 675px;
+}
+user agent stylesheet
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+body {
+    background-image: url(images/bg.gif);
+    background-color: #000000;
+    font-size: 12px;
+    color: #cccccc;
+}
